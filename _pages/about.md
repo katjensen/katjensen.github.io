@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello ! Welcome to my personal page. I enjoy wearing many hats as a remote sensing scientist, machine learning engineer, Earth science educator, and mapping enthusiast. 
+Hello! Welcome to my personal page. I enjoy wearing many hats as a remote sensing scientist, machine learning engineer, Earth science educator, and mapping enthusiast. 
 
-I was born and raised in Honolulu Hawai'i, where I grew up with a deep respect for our natural resources and a love for the outdoors that drove me to pursue a PhD in Earth & Environmental Sciences. I am a longtime geospatial and machine learning Python developer, and the occasional baker.
+I was born and raised in Honolulu Hawai'i, where I grew up with a deep respect for our natural resources and a love for the outdoors that drove me to pursue a PhD in Earth & Environmental Sciences. I am a seasoned geospatial and machine learning Python developer, and the occasional baker.
 
-I am currently working as a data scientist at [Capella Space](https://www.capellaspace.com/) developing environmental monitoring analytics from X-band Synthetic Aperture Radar (SAR). My previous work includes:
+I am currently working as a data scientist at [Capella Space](https://www.capellaspace.com/) developing environmental monitoring analytics from X-band Synthetic Aperture Radar (SAR). My previous works include:
 
 * Developing machine learning and computer vision algorithms for agricultural monitoring and mapping of regenerative practices at [Indigo Ag](https://www.indigoag.com/)
 * PhD research on regional to global scale mapping of surface water patterns and extreme events using a variety of different satellite and aerial remote sensing data, at the City College of New York and NASA Jet Propulsion Laboratory (JPL)
@@ -22,6 +22,7 @@ I am currently working as a data scientist at [Capella Space](https://www.capell
 You can learn more about some of my current and former research projects [here](https://katjensen.github.io/research)
 
 
+<img style="float: left; padding: 10px 10px 10px 10px;" src="http://katjensen.github.io/images/Kat_Pacaya_tree.JPG" width=500>
 
 
  academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).

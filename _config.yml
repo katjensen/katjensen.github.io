@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "katmjensen"
-  orcid            : "https://orcid.org/0000-0002-3701-9798"
+  orcid            : #"https://orcid.org/0000-0002-3701-9798"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
