@@ -2,7 +2,7 @@
 title: "Malaria Early Warning System"
 collection: research
 permalink: /research/1-MalariaRisk
-excerpt: '<img style="float: left;" src='http://katjensen.github.io/images/research/mosquito.png' width=200> How can environmental data help predict malaria risk ?'
+excerpt: '<img src="http://katjensen.github.io/images/research/mosquito.png" width=200> How can environmental data help predict malaria risk ?'
 ---
 In a project funded by NASA SERVIR (2013 - 2015) during my PhD program, we investigated the relationship between malaria occurrence and environmental conditions that could be monitored from space.
 
