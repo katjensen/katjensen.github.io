@@ -2,13 +2,11 @@
 title: "Malaria Early Warning System"
 collection: research
 permalink: /research/1-MalariaRisk
-excerpt: 'How can environmental data help predict malaria risk ?'
+excerpt: '<img style="float: left;" src='http://katjensen.github.io/images/research/mosquito.png' width=200> How can environmental data help predict malaria risk ?'
 ---
 In a project funded by NASA SERVIR (2013 - 2015) during my PhD program, we investigated the relationship between malaria occurrence and environmental conditions that could be monitored from space.
 
 ## Project Background:
-
-<img style="float: left; padding: 10px 10px 10px 10px;" src="http://katjensen.github.io/images/research/mosquito.png" width=200>
 
 Vector-borne diseases are driven by environmental conditions that harbor specific vector habitat conditions such as:
 
@@ -31,7 +29,7 @@ The impact of epidemics can be mitigated with prediction and timely deployment o
 
 **Spatial distribution** of mean surface water fraction and mean malaria incidence rate across subzones of Eritrea (excluding coastal zones), 1999-2003:
 
-<img style="float: center; padding: 10px 10px 10px 10px;" src="Malaria_SurfaceWater.png" width=700>
+<img style="float: center; padding: 10px 10px 10px 10px;" src="http://katjensen.github.io/images/research/Malaria_SurfaceWater.png" width=700>
 
 
 **Temporal Dynamic between Malaria and Surface Water Inundation**
