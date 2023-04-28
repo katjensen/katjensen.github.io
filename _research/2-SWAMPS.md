@@ -11,8 +11,6 @@ The Surface Water Microwave Product Series (SWAMPS) is a gridded global surface 
 * Date range: Jan 1 1992 - Dec 31 2020
 * Download [here!](https://asf.alaska.edu/data-sets/derived-data-sets/wetlands-measures/wetlands-measures-product-downloads/)
 
-<img style="float: center; padding: 10px 10px 10px 10px;" src="http://katjensen.github.io/images/research/SWAMPS/SWAMPS-map-example.png" width=800>
-
 SWAMPS was derived using a land cover-supported, atmospherically-corrected dynamic mixture model applied to 20+ years of combined, daily, passive/active microwave remote sensing data. Learn more
 
 <img style="float: center; padding: 10px 10px 10px 10px;" src="http://katjensen.github.io/images/research/SWAMPS/SWAMPS-workflow.png" width=800>
