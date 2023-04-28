@@ -37,9 +37,15 @@ Researchers have been mapping water from SAR for nearly 30 years -- this is not 
 
 <img style="float: center; padding: 10px 10px 10px 10px;" src="http://katjensen.github.io/images/research/SAR-Flood/Model-Spectrum.png" width=800>
 
-While working on this project, we started prototyping this work starting at the simpler end of the modeling spectrum. As we built up an archive of flood images and high quality annotations, we iterated on a variety of different models and slowly moved our way to the more sophisticated end of the modelling techniques, ultimately using a U-Net convolutional neural network.
+While working on this project, we started prototyping this work starting at the simpler end of the modeling spectrum. As we built up an archive of flood images and high quality annotations, we iterated on a variety of different models and slowly worked our way to the more sophisticated end of the modelling techniques, ultimately using a U-Net convolutional neural network.
 
 <img style="float: center; padding: 10px 10px 10px 10px;" src="http://katjensen.github.io/images/research/SAR-Flood/ml-development-cycle.png" width=600>
+
+<figure>
+    <img src="http://katjensen.github.io/images/research/SAR-Flood/ml-development-cycle.png" width=600/>
+    <figcaption>Source: https://www.jeremyjordan.me/ml-projects-guide/</figcaption>
+</figure>
+
 
 We now can run our model on any Capella image and deliver maps of estimated flood and persistent water masks using a suite of auxiliary geospatial data 
 (historical satellite imagery from Landsat, Sentinel-1 and Sentinel-2, elevation from a DEM, and infrastructure data layers)
