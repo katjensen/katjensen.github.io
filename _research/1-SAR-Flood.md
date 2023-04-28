@@ -18,7 +18,11 @@ SAR works by transmitting radio waves from a radar antenna on a platform (like a
 
 Active sensors like SAR can help deliver timely information day or night and through cloudy conditions. SAR is used for a wide variety of applications, from mapping and monitoring changes in the Earth's surface to tracking ships and detecting oil spills in the ocean.
 
-<img style="float: center; padding: 10px 10px 10px 10px;" src="http://katjensen.github.io/images/research/SAR-Flood/Windsor-Flood.gif" width=500 alt="Flood water receding in Windsor NSW Australia, July 2022">
+<figure>
+    <img src="http://katjensen.github.io/images/research/SAR-Flood/Windsor-Flood.gif" width=700/>
+    <figcaption>Flood water receding in Windsor NSW Australia, July 2022</figcaption>
+</figure>
+
 
 Here are some great resources to learn more about SAR:
 
@@ -31,14 +35,14 @@ Here are some great resources to learn more about SAR:
 Researchers have been mapping water from SAR for nearly 30 years -- this is not a new concept! But, as computing resources and imagery grown more complex, modeling techniques have also grown more sophisticated. Succesful flood detection techniques range from simple amplitude thresholding and unsupervised clustering - to supervised ML methods (Random Forest, SVMs, etc) and deep learning segmentation methods. Generally, the further right in this chart you go- the greater the computational demand and need for more training data.
 
 
-<img style="float: center; padding: 10px 10px 10px 10px;" src="http://katjensen.github.io/images/research/SAR-Flood/Model-Spectrum.png" width=500>
+<img style="float: center; padding: 10px 10px 10px 10px;" src="http://katjensen.github.io/images/research/SAR-Flood/Model-Spectrum.png" width=700>
 
 While working on this project, we started prototyping this work starting at the simpler end of the modeling spectrum. As we built up an archive of flood images and high quality annotations, we iterated on a variety of different models and slowly moved our way to the more sophisticated end of the modelling techniques, ultimately using a U-Net convolutional neural network.
 
-<img style="float: center; padding: 10px 10px 10px 10px;" src="http://katjensen.github.io/images/research/SAR-Flood/ml-development-cycle" width=300>
+<img style="float: center; padding: 10px 10px 10px 10px;" src="http://katjensen.github.io/images/research/SAR-Flood/ml-development-cycl.png" width=500>
 
 We now can run our model on any Capella image and deliver maps of estimated flood and persistent water masks using a suite of auxiliary geospatial data 
 (historical satellite imagery from Landsat, Sentinel-1 and Sentinel-2, elevation from a DEM, and infrastructure data layers)
 
-<img style="float: center; padding: 10px 10px 10px 10px;" src="http://katjensen.github.io/images/research/SAR-Flood/SAR-Flood-Map-Labels.png" width=500>
+<img style="float: center; padding: 10px 10px 10px 10px;" src="http://katjensen.github.io/images/research/SAR-Flood/SAR-Flood-Map-Labels.png" width=700>
 
