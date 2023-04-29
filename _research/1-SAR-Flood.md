@@ -10,11 +10,15 @@ Awareness of changing ground conditions is critical for effective disaster respo
 ## What is SAR ?
 Most people are familiar with optical satellite imagery (observed in the **visible** range of the electromagenetic spectrum). These kind of images are passively sensed, meaning that the sun acts as a light source, similar to a camera without flash.
 
-<img style="float: center; padding: 10px 10px 10px 10px;" src="http://katjensen.github.io/images/research/SAR-Flood/SAR-optical-comparison.gif" width=500><em>Source: [ESRI](https://www.esri.com/arcgis-blog/products/arcgis-pro/imagery/introduction-to-synthetic-aperture-radar/)</em>
-
 Synthetic Aperture Radar (SAR) is a radar system that uses microwaves to create detailed images of the Earth's surface. It's called "synthetic aperture" because it uses advanced processing techniques to simulate a much larger antenna than what's actually physically possible.
 
 SAR works by transmitting radio waves from a radar antenna on a platform (like a satellite or airplane) towards the ground. The waves reflect off of objects and return to the antenna, where they're recorded. By measuring the time it takes for the waves to travel and bounce back, SAR can determine the distance to the objects on the ground.
+
+<figure>
+    <img src="http://katjensen.github.io/images/research/SAR-Flood/SAR-optical-comparison.gif" width=500/>
+    <figcaption>An example of an optical image with clouds present and a clear SAR image of Balikpapan Bay, Indonesia (Source: LANDSAT 8 and Sentinel-1). Source: [ESRI](https://www.esri.com/arcgis-blog/products/arcgis-pro/imagery/introduction-to-synthetic-aperture-radar/)</figcaption>
+</figure>
+
 
 Active sensors like SAR can help deliver timely information day or night and through cloudy conditions. SAR is used for a wide variety of applications, from mapping and monitoring changes in the Earth's surface to tracking ships and detecting oil spills in the ocean.
 
@@ -38,8 +42,6 @@ Researchers have been mapping water from SAR for nearly 30 years -- this is not 
 <img style="float: center; padding: 10px 10px 10px 10px;" src="http://katjensen.github.io/images/research/SAR-Flood/Model-Spectrum.png" width=800>
 
 While working on this project, we started prototyping this work starting at the simpler end of the modeling spectrum. As we built up an archive of flood images and high quality annotations, we iterated on a variety of different models and slowly worked our way to the more sophisticated end of the modelling techniques, ultimately using a U-Net convolutional neural network.
-
-<img style="float: center; padding: 10px 10px 10px 10px;" src="http://katjensen.github.io/images/research/SAR-Flood/ml-development-cycle.png" width=600>
 
 <figure>
     <img src="http://katjensen.github.io/images/research/SAR-Flood/ml-development-cycle.png" width=600/>
