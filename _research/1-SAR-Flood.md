@@ -16,7 +16,7 @@ SAR works by transmitting radio waves from a radar antenna on a platform (like a
 
 <figure>
     <img src="http://katjensen.github.io/images/research/SAR-Flood/SAR-optical-comparison.gif" width=500/>
-    <figcaption>An example of an optical image with clouds present and a clear SAR image of Balikpapan Bay, Indonesia (Source: LANDSAT 8 and Sentinel-1). Source: [ESRI](https://www.esri.com/arcgis-blog/products/arcgis-pro/imagery/introduction-to-synthetic-aperture-radar/)</figcaption>
+    <figcaption>An example of an optical image with clouds present and a clear SAR image of Balikpapan Bay, Indonesia (Source: LANDSAT 8 and Sentinel-1).</figcaption>
 </figure>
 
 
