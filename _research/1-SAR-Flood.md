@@ -5,7 +5,7 @@ permalink: /research/1-SAR-Flood
 excerpt: 'Building models to map floods with commercial satellite radar imagery <br><br><img src="http://katjensen.github.io/images/research/SAR-Flood/SAR-Flood-example.png" width=150> '
 ---
 
-Awareness of changing ground conditions is critical for effective disaster response, making satellite imagery an important source of this information today. At Capella Space, we are developing tools to help endusers task and interpret our SAR imagery quickly for flood mapping.
+Awareness of changing ground conditions is critical for effective disaster response, making satellite imagery an important source of this information today. At Capella Space and ICEYE, I have helped develop tools to help endusers task and interpret commercial SAR imagery quickly for flood mapping.
 
 ## What is SAR ?
 Most people are familiar with optical satellite imagery (observed in the **visible** range of the electromagenetic spectrum). These kind of images are passively sensed, meaning that the sun acts as a light source, similar to a camera without flash.
@@ -49,8 +49,7 @@ While working on this project, we started prototyping this work starting at the 
 </figure>
 
 
-We now can run our model on any Capella image and deliver maps of estimated flood and persistent water masks using a suite of auxiliary geospatial data 
-(historical satellite imagery from Landsat, Sentinel-1 and Sentinel-2, elevation from a DEM, and infrastructure data layers)
+We now can run our model on any Capella image and deliver maps of estimated flood and persistent water masks using a suite of auxiliary geospatial data (historical satellite imagery from Landsat, Sentinel-1 and Sentinel-2, elevation from a DEM, and infrastructure data layers)
 
 <img style="float: center; padding: 10px 10px 10px 10px;" src="http://katjensen.github.io/images/research/SAR-Flood/SAR-Flood-Map-Labels.png" width=500>
 
