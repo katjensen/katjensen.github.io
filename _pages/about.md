@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! Welcome to my personal page. I enjoy wearing many hats as a remote sensing scientist, machine learning engineer, Earth science educator, and mapping enthusiast. 
 
-I am a data scientist at **[Capella Space](https://www.capellaspace.com/)** developing environmental monitoring analytics from X-band Synthetic Aperture Radar (SAR). In previous roles, I've worked on:
+I am a data scientist at **[ICEYE](https://www.iceye.com/en-us/)** developing environmental monitoring analytics from X-band Synthetic Aperture Radar (SAR). In previous roles, I've worked on:
 
 * Developing machine learning and computer vision algorithms for agricultural monitoring and mapping of regenerative practices at **[Indigo Ag](https://www.indigoag.com/)**
 * Regional to global scale mapping of surface water patterns and wetlands classification using a variety of different satellite and aerial remote sensing data, at the **City College of New York** and **NASA Jet Propulsion Laboratory (JPL)**
